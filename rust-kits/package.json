@@ -1,0 +1,20 @@
+{
+  "name": "rust-kits",
+  "displayName": "Rust Kits",
+  "icon": "logo.png",
+  "publisher": "SonderMX",
+  "description": "Rust Development Packs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "rust-lang.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "tauri-apps.tauri-vscode",
+    "vadimcn.vscode-lldb"
+  ]
+}
