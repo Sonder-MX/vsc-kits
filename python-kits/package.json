@@ -1,0 +1,21 @@
+{
+  "name": "python-kits",
+  "displayName": "Python Kits",
+  "icon": "logo.png",
+  "publisher": "SonderMX",
+  "description": "Python Development Packs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "ms-python.black-formatter",
+    "ms-python.isort"
+  ]
+}
